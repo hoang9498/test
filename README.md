@@ -1,2 +1,2 @@
 # test
-here is my simle project
+here is my simple project
